@@ -94,3 +94,10 @@ Zanim rozpoczniesz, zadaj mi 10 pytań, które pomogą Ci lepiej zrozumieć spec
 ---uczenie z llm
 - chatgpt i claude chat maja opcje learn - prowadzi przez temat jak nauczyciel
 - claude code output-style -> learning i moze napisac cześć kodu i zostawic miejsce na implementacje jakiejs funkcjonalności
+
+
+
+MCP z Continue:
+https://docs.continue.dev/customize/deep-dives/mcp
+-- nie dziala logowanie z access_tokena
+-- sprobowac w clude code 
